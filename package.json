@@ -1,5 +1,5 @@
 {
-  "name": "vitest",
+  "name": "vitest_study",
   "version": "1.0.0",
   "description": "learn vitest",
   "scripts": {
@@ -7,5 +7,8 @@
   },
   "keywords": [],
   "author": "rjs8833@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^3.0.8"
+  }
 }
